@@ -77,9 +77,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Texting\Texting.csproj">
+    <ProjectReference Include="..\Texting\Testing.csproj">
       <Project>{7e81e71c-e6d0-4a38-a623-b4314a945201}</Project>
-      <Name>Texting</Name>
+      <Name>Testing</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
