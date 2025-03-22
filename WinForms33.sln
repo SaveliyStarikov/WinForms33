@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms33", "WinForms33\WinForms33.csproj", "{381C26B2-A3CD-47A4-B3F0-1CE36368CF3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Texting", "Texting\Texting.csproj", "{7E81E71C-E6D0-4A38-A623-B4314A945201}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLib", "MyLib\MyLib.csproj", "{6D3C8F9F-A8C4-469D-9D9F-A74C97296B1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{381C26B2-A3CD-47A4-B3F0-1CE36368CF3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{381C26B2-A3CD-47A4-B3F0-1CE36368CF3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{381C26B2-A3CD-47A4-B3F0-1CE36368CF3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{381C26B2-A3CD-47A4-B3F0-1CE36368CF3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E81E71C-E6D0-4A38-A623-B4314A945201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E81E71C-E6D0-4A38-A623-B4314A945201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E81E71C-E6D0-4A38-A623-B4314A945201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E81E71C-E6D0-4A38-A623-B4314A945201}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D3C8F9F-A8C4-469D-9D9F-A74C97296B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D3C8F9F-A8C4-469D-9D9F-A74C97296B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D3C8F9F-A8C4-469D-9D9F-A74C97296B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D3C8F9F-A8C4-469D-9D9F-A74C97296B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96D0B3F8-764F-4D92-8811-2A1AF4BCDEB9}
+	EndGlobalSection
+EndGlobal
